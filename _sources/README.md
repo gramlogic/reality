@@ -1,2 +1,2 @@
-# infinite-space
-Text for Idea of Reality
+# The Idea of Reality 
+* HISC 107
