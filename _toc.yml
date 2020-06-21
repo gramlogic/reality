@@ -1,6 +1,7 @@
-file: notebooks
+file: intro 
 sections:
 - file: intro
 - file: README
-- file: markdown
 - file: content
+- file: markdown
+- file: notebooks
