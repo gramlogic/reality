@@ -1,7 +1,5 @@
 file: intro 
 sections:
-- file: intro
-- file: README
 - file: content
 - file: markdown
 - file: notebooks

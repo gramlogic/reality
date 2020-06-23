@@ -1,8 +1,25 @@
 # Book settings
-title: My sample book
-author: The Jupyter Book Community
+title: The Idea of Reality
+author: Michael McCarrin
 logo: logo.png
 
 latex:
   latex_documents:
     targetname: book.tex
+
+# Information about where the book exists on the web
+repository:
+  url                       : https://github.com/gramlogic/reality/
+  branch: master  # An optional branch, defaults to `master`
+
+# Configure your Binder links, such as the URL of the BinderHub.
+launch_buttons:
+  binderhub_url             : https://mybinder.org
+
+html:
+  use_repository_button: true
+  use_edit_page_button: true
+
+google_analytics:
+  mytrackingcode: UA-47071835-2
+
