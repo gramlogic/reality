@@ -7,3 +7,12 @@ structured.
 Check out the content pages bundled with this sample book to get started.
 
 This page must be edited.
+
+```{toggle}
+Secret messages here.
+```
+
+```{admonition} Magic!
+:class: dropdown
+Abracadabra.
+```

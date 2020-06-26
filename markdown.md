@@ -118,7 +118,7 @@ print("Here is some code to execute")
 ````
 
 When your book is built, the contents of any `{code-cell}` blocks will be
-executed with your default Jupyter kernel, and their outputs will be displayed
+executedyoutube with your default Jupyter kernel, and their outputs will be displayed
 in-line with the rest of your content.
 
 For more information about executing computational content with Jupyter Book,
