@@ -2,6 +2,7 @@
 title: The Idea of Reality
 author: Michael McCarrin
 logo: logo.png
+exclude_patterns: [README.md]
 
 latex:
   latex_documents:
