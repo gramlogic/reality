@@ -134,3 +134,6 @@ _build/
 # vim temp files
 *.swp 
 
+# gimp files
+*.xcf
+

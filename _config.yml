@@ -18,6 +18,7 @@ launch_buttons:
   binderhub_url             : https://mybinder.org
 
 html:
+  favicon: images/flower.png
   use_repository_button: true
   use_edit_page_button: true
 
