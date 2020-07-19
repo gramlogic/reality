@@ -1,7 +1,7 @@
 # Book settings
 title: The Idea of Reality
 author: Michael McCarrin
-logo: logo.png
+logo: images/elephants_logo.jpg
 exclude_patterns: [README.md]
 
 latex:

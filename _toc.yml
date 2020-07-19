@@ -1,2 +1,16 @@
-file: intro 
+- file: intro
+- file: ch01.md 
+- header: Imaginary Empires
+- file: ch02.md 
+- file: ch03.md 
+- file: ch04.md 
+- file: ch05.md 
+- header: Real Foundations 
+- file: ch06.md 
+- file: ch07.md 
+- file: ch08.md 
+- header: The Aesthetics of Reality 
+- file: ch09.md 
+- file: ch10.md 
+- file: ch11.md 
 

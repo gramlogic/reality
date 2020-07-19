@@ -130,3 +130,7 @@ dmypy.json
 
 # Jupyter Books Build Files
 _build/
+
+# vim temp files
+*.swp 
+

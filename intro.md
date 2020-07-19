@@ -1,18 +1,10 @@
-Welcome to your Jupyter Book
-============================
+# 
 
-This is a small sample book to give you a feel for how book content is
-structured.
-
-Check out the content pages bundled with this sample book to get started.
-
-This page must be edited.
-
-```{toggle}
-Secret messages here.
+```{image} images/reality_punpun_v4_crop.png
+:alt: It's not for escaping reality... Goodnight PunPun Volume 4
 ```
 
-```{admonition} Magic!
-:class: dropdown
-Abracadabra.
-```
+---
+
+Syllabus
+
