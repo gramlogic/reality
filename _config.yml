@@ -25,3 +25,6 @@ html:
 google_analytics:
   mytrackingcode: UA-47071835-2
 
+sphinx:
+  extra_extensions:
+  - sphinx_tabs.tabs
